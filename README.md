@@ -120,4 +120,6 @@ Execute the program
 
 # OUPUT:
 ![TIMETABLE](./images/timetable.png)
+
+# HTML VALIDATION:
 ![WEBPAGEVALIDATION](./images/webpagevalidation.png)
